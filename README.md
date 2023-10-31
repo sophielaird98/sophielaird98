@@ -4,8 +4,6 @@
 - My GitHub will be used to demonstrate the skills I am learning throughout my modules in my masters and develop real world scenarios to solve using code.
 - I can be contacted through the following:
 - My LinkedIn Profile: linkedin.com/in/sophie-laird-63147b194
-- 
-- 
 
 <!---
 sophielaird98/sophielaird98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
